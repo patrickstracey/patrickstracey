@@ -1,10 +1,10 @@
 ## Hello! My name is Patrick 👋
-I've managed dev teams and product roadmaps as an Engineering Manager, written code as a Front-end Developer, and hired Design and Product teams from scratch. Currently I am spending most of my dev time doing full stack Typescript (Angular/NestJs), but I also have experience building web apps with Python (Flask/Django), silly games with Unity, low poly modeling with Blender, and UX prototypes with Figma.
+I've managed dev teams and product roadmaps as an Engineering Manager, written code as a Front-end Developer, and hired Design and Product teams from scratch. Currently I am spending most of my dev time doing full stack Typescript (Angular/NestJs), but I also have experience building web apps with Python (Flask/Django), silly games with Unity (C#), low poly modeling with Blender, and UX prototypes with Figma.
 
 I keep a large majority of my most recent and significant projects on Github private, but you can check out full write ups, code snippets, screenshots, and deep dives about them [on my website here](https://stracey.dev/). Which also has a nifty link to my [online resume](https://stracey.dev/resume).
 
 ### What Am I Doing Professionally?
-While I am self-taught and have often found myself directed into project and personnel management by the companies I have worked for, I am excited about an opportunities to jump into a full-time individual contributor roles. Currently I am working as a Producer at Everi overseeing eight seperate game projects slated to be released late 2023 and early 2024.
+While I am self-taught and have often found myself directed into project and personnel management by the companies I have worked for and am therefore currently excited about opportunities to jump into a full-time individual contributor roles. Currently I am working as a Producer at Everi overseeing eight seperate game projects slated to be released late 2023 and early 2024.
 
 <!--
 **patrickstracey/patrickstracey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
