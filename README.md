@@ -4,7 +4,7 @@ I've managed dev teams and product roadmaps as an Engineering Manager, written c
 I keep a large majority of my most recent and significant projects on Github private, but you can check out full write ups, code snippets, screenshots, and deep dives about them [on my website here](https://stracey.dev/). Which also has a nifty link to my [online resume](https://stracey.dev/resume).
 
 ### What Am I Doing Professionally?
-While I am self-taught and have often found myself directed into project and personnel management by the companies I have worked for, I am always excited about opportunities to help build toughtful, high performing teams who are used to doing more with less, or jumping into a mid-level full-time individual contributor role where I can improve my technical skillset. Currently I am working as a Producer at Everi overseeing eight seperate game projects slated to be released late 2023 and early 2024.
+While I am self-taught and have often found myself directed into project and personnel management by the companies I have worked for, I am always excited about opportunities to help build thoughtful, high performing teams who are used to doing more with less, or jumping into a mid-level full-time individual contributor role where I can improve my technical skillset. Currently I am working as a Producer at Everi overseeing eight separate game projects slated to be released late 2023 and early 2024.
 
 <!--
 **patrickstracey/patrickstracey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
